@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning (UVA CS 4774)
 
 This course introduces fundamental concepts and methods to learn from data for computational data analysis, including pattern recognition, prediction, and visualization. The primary focus is on giving an introduction to machine learning techniques applied to various problems. The students in this course will be able to:
 
